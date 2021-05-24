@@ -1,0 +1,22 @@
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.content {
+    text-align: center;
+    margin-top: 15%;
+}
+
+.reload-btn {
+    text-align: center;
+    background: #eee;
+    padding: 10px;
+    color: rgb(61, 61, 61);
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 230px;
+    display: inline-block;
+    cursor: pointer;
+}

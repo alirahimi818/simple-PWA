@@ -1,0 +1,39 @@
+{
+    "name": "RedCherry",
+    "short_name": "RedCherry",
+    "description": "RedCherry Simple PWA",
+    "icons": [
+        {
+            "src": "img/fav-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "img/fav-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "img/screenshot-1.jpg",
+            "sizes": "1000x1600",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "img/screenshot-2.jpg",
+            "sizes": "1000x1600",
+            "type": "image/jpeg"
+        }
+    ],
+    "background_color": "#af0a1a",
+    "theme_color": "#af0a1a",
+    "display": "fullscreen",
+    "orientation": "any",
+    "start_url": ".",
+    "url": "index.html",
+    "scope": ".",
+    "lang": "fa-IR",
+    "dir": "rtl"
+}
